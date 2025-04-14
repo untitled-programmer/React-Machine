@@ -1,6 +1,6 @@
 # React-Machine 🤖
 
-*React-Machine is a powerful command-line interface (CLI) tool designed to provide a free and open-source alternative to Jacksfilms React Bot. Written entirely in Python.*
+*React-Machine is a command-line interface (CLI) tool designed to provide a free and open-source alternative to Jacksfilms React Bot. Written entirely in Python.*
 
 ## **⭐ Features**
 
