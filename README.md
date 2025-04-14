@@ -18,7 +18,7 @@ To install React-Machine, follow these steps:
     cd React-Machine
     ```
 
-2. Ensure you have Python installed. React-Machine requires Python 3.x.
+2. Ensure you have Python installed, and then run the fallowing commands.
 
     ```bash
     python3 setup.py
