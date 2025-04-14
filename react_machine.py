@@ -181,7 +181,7 @@ yapping = [
 
 os.system("cls" if os.name == "nt" else "clear")
 print(Fore.RED + "")
-print("React Machine can sometimes tell jokes with dark humor or things offensive to certain groups of people.")
+print("React Machine can sometimes say things offensive to certain groups of people.")
 print(Fore.GREEN + "")
 print(f"Live reaction:  {Fore.RESET}( ͡° ͜ʖ ͡°) ")
 print(Fore.GREEN + "")
